@@ -1,3 +1,6 @@
+#### 安装
+npm install move-mouse
+
 #### 描述
 移动桌面上的鼠标位置
 
